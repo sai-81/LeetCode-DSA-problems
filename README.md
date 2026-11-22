@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
