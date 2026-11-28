@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3360-stone-removal-game) |
+## Greedy
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Sorting
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sai-81/LeetCode-DSA-problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
